@@ -5,6 +5,9 @@ import time
 
 
 def parse(url):
+
+
+    print(url)
     data = {}
     # 解析逻辑 开始
 
